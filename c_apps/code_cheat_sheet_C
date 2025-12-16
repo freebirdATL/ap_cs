@@ -1,0 +1,11 @@
+code cheat sheet C
+
+data types    - format code - description                             - size
+
+bool          - %d          - boolean (true/false)                    - 1 byte
+char          - %c          - single character (e.g. "B")             - 1 byte
+short         - %hd         - signed short integer (e.g. -2, 7)       - 2 bytes
+integer       - %d          - signed integer (e.g. -4, 128)           - 4 bytes
+long          - %ld         - signed long integer (e.g. 942387645872) - 8 bytes
+double        - %lf         - signed decimal (e.g. 3.141)             - 8 bytes
+double        - %e          - scientific notion (e.g 2.99*10^8)
