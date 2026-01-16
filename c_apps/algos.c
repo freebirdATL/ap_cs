@@ -9,7 +9,7 @@ int main() {
     printf(
         "a: %d\n"
         "b: %d\n"
-        "b: %c\n"sadfsdf
+        "b: %c\n"sadfsdfls
         // "c: %d\n"
         // "c: %c\n"
         // "c: %s\n"
